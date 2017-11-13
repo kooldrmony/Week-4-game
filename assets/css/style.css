@@ -1,0 +1,54 @@
+*{font-family:Algerian;}
+
+html {
+
+ background-image: url("../images/boxingring2.jpg");
+ height: 100%;
+ margin: 0;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
+
+.image{
+	
+	width: 150px;
+	height: 100px;
+}
+
+#ali{
+
+	border: 15px solid white;
+
+}
+
+#tyson{
+
+	border: 15px solid white;
+}
+
+#mayweather{
+
+	border:15px solid white;
+
+}
+
+#norris{
+
+	border: 15px solid white;
+
+}
+
+h1{
+
+	color: white;
+	text-align: right;
+
+}
+
+h2{
+
+	color: white;
+}
+

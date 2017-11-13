@@ -13,31 +13,9 @@ html {
 
 .image{
 	
+	border: 15px solid white;
 	width: 150px;
 	height: 100px;
-}
-
-#ali{
-
-	border: 15px solid white;
-
-}
-
-#tyson{
-
-	border: 15px solid white;
-}
-
-#mayweather{
-
-	border:15px solid white;
-
-}
-
-#norris{
-
-	border: 15px solid white;
-
 }
 
 h1{

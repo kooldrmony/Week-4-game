@@ -1,32 +1,93 @@
-*{font-family:Algerian;}
+body{
 
-html {
-
- background-image: url("../images/boxingring2.jpg");
- height: 100%;
- margin: 0;
- background-position: center;
- background-repeat: no-repeat;
- background-size: cover;
-
+	background-color: grey;
 }
 
-.image{
-	
-	border: 15px solid white;
-	width: 150px;
-	height: 100px;
-}
 
 h1{
 
-	color: white;
-	text-align: right;
+	text-align: center;
+	color: red;
+	background-color: green;
+	padding: 25px;
+	width: 260px;
 
 }
 
-h2{
+section{
 
+	font-size: 18px;
+	text-align: left;
 	color: white;
+	background-color: blue;
+	padding: 25px;
+	width: 400px;
+
+}
+
+#randomnumber{
+	
+	font-size: 30px;
+	text-align: left;
+	background-color: yellow;
+	padding: 25px;
+	width: 150px;
+	height: 50px;
+}
+
+#winslosses{
+
+	text-align: left;
+	position: absolute;
+	left: 220px;
+	top: 555px;
+	background-color: teal;
+	padding: 25px;
+	width: 50px;
+	height: 50px;
+
+}
+
+#blue{
+
+	width: 75px;
+	height: 75px;
+}
+
+#red{
+
+	width: 75px;
+	height: 75px;
+}
+
+#yellow{
+
+	width: 75px;
+	height: 75px;
+
+}
+
+#green{
+
+	width: 75px;
+	height: 75px;
+
+}
+
+.score{
+
+	border: 0px;
+	background-color: orange;
+	width: 200px;
+}
+
+#totalscore{
+
+	text-align: left;
+	font-size: 30px;
+	background-color: orange;
+	padding: 25px;
+	width: 150px;
+	height: 50px;
 }
 
